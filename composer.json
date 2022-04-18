@@ -1,5 +1,13 @@
 {
     "name": "walissonaguirra/php-starter",
+    "description": "PHP Starter uma base para criação de sistemas.",
+    "keywords": [
+        "php",
+        "pdo",
+        "poo",
+        "mvc",
+        "frontcontroller"
+    ],
     "autoload": {
         "psr-4": {
             "Src\\": "src/"
