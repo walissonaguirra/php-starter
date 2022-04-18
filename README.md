@@ -46,7 +46,7 @@ composer install
 <!-- LICENSE -->
 ## License
 
-Distribuído sob a licença MIT. Veja [LICENSE]() para mais informações.
+Distribuído sob a licença GNU General Public License v3.0. Veja LICENSE para mais informações.
 
 <p align="right">(<a href="#readme">volta ao topo</a>)</p>
 
