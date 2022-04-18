@@ -1,0 +1,33 @@
+{
+    "name": "walissonaguirra/php-starter",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        },
+        "files": [
+            "src/Config.php",
+            "src/Helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Walisson Aguirra",
+            "email": "walisson.aguirra@gmail.com",
+            "homepage": "https://github.com/walissonaguirra",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "ext-pdo": "*",
+        "ext-json": "*",
+        "coffeecode/router": "^1.0",
+        "league/plates": "^3.4",
+        "coffeecode/datalayer": "^1.1",
+        "vlucas/phpdotenv": "^5.4",
+        "sendgrid/sendgrid": "^7.11"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.6"
+    }
+}
