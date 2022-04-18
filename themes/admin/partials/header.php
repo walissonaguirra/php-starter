@@ -5,7 +5,6 @@
         </a>
         <ul class="navbar-nav ms-auto gap-3">
             <li class="nav-item"><a class="nav-link <?=(1 == $nav ? "text-primary" : null)?>" href="<?=$this->route("panel.index")?>"><i class="bi bi-grid-fill"></i> Painel</a></li>
-            <li class="nav-item"><a class="nav-link <?=(2 == $nav ? "text-primary" : null)?>" href="<?=$this->route("client.index")?>"><i class="bi bi-person-square"></i> Clientes</a></li>
             <li class="nav-item"><a class="nav-link <?=(3 == $nav ? "text-primary" : null)?>" href="<?=$this->route("user.index")?>"><i class="bi bi-people"></i> Usuários</a></li>
             <div class="vr align-self-center" style="height: 22px;"></div>
             <li class="nav-item dropdown">

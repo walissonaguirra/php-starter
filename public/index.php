@@ -24,14 +24,6 @@ $router->post("/recuperar/{code}", "AuthController:reset", "auth.reset");
 // Painel de controle
 $router->get("/painel", "PanelController:index", "panel.index");
 
-// Clientes
-$router->get("/clientes", "ClientController:index", "client.index");
-$router->get("/clientes/novo", "ClientController:create", "client.create");
-
-$router->post("/clientes", "ClientController:create", "client.create");
-$router->put("/clientes/{id}", "ClientController:update", "client.update");
-$router->delete("/clientes/{id}", "ClientController:delete", "client.delete");
-
 // Usuários
 $router->get("/usuarios", "UserController:index", "user.index");
 $router->get("/usuario/modal", "UserController:modal", "user.modal");
