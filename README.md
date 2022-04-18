@@ -1,5 +1,5 @@
-# 🚀 PHP Starter
-Uma base para criação de sistemas.
+<h1 align="center"> 🚀 PHP Starter</h1>
+<h3 align="center">Uma base para criação de sistemas.</h3>
 
 ![Print Screen](php-starter-screen.gif)
 
@@ -13,7 +13,6 @@ Este projeto busca seguir as boas práticas de programação de comunidade php [
 
 <p align="right">(<a href="#readme">volta ao topo</a>)</p>
 
-
 ## Construído com
 - JavaScript Vanilla
 - Bootstrap 5
@@ -23,7 +22,7 @@ Este projeto busca seguir as boas práticas de programação de comunidade php [
 
 <p align="right">(<a href="#readme">volta ao topo</a>)</p>
 
-## Como usar
+## Guia de instalação
 1. Para começar você pode clonar esta projeto na sua máquina local usando o comando abaixo
 ```sh
 git clone https://github.com/walissonaguirra/php-starter.git
@@ -40,7 +39,7 @@ git clone https://github.com/walissonaguirra/php-starter.git
 composer install
 ```
 
-🎉 Pronto!!! você já pode acessar o seu _localhost_ e começa a codificar
+🎉 **Pronto!!!** você já pode acessar o seu _localhost_ e começa a codificar
 
 <p align="right">(<a href="#readme">volta ao topo</a>)</p>
 
