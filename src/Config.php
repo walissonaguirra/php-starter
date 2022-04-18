@@ -35,8 +35,8 @@ define("CONF_VIEW_EMAIL", dirname(__DIR__, 1) . "/email");
 /**
  * SITE
  */
-define("CONF_SITE_NAME", "Pollyanno");
-define("CONF_SITE_TITLE", "Pollyanno Sistema");
+define("CONF_SITE_NAME", "PHP Starter");
+define("CONF_SITE_TITLE", "Uma base para criação de sistemas");
 
 /**
  * DEVELOPER
